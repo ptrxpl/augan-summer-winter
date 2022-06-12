@@ -1,0 +1,6 @@
+model_checkpoint_path: "AUGAN.model-40002"
+all_model_checkpoint_paths: "AUGAN.model-36002"
+all_model_checkpoint_paths: "AUGAN.model-37002"
+all_model_checkpoint_paths: "AUGAN.model-38002"
+all_model_checkpoint_paths: "AUGAN.model-39002"
+all_model_checkpoint_paths: "AUGAN.model-40002"
